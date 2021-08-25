@@ -5,16 +5,16 @@ A Web application for Buy, Exchange, Sell of items. Aimed for a college environm
 https://cryptic-plains-20900.herokuapp.com
 
 # Features
-Seller
+### Seller
 
-    upload items
-        add description
-        add image for the item
-        specify expected price
-    manage uploaded items
-    remove items
+    - upload items
+        - add description
+        - add image for the item
+        - specify expected price
+    - manage uploaded items
+    - remove items
 
-Buyer
+### Buyer
 
-    browse for items
-    contact the seller via Email or phone
+    - browse for items
+    - contact the seller via Email or phone
