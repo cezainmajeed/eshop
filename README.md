@@ -5,6 +5,7 @@ A Web application for Buy, Exchange, Sell of items. Aimed for a college environm
 https://cryptic-plains-20900.herokuapp.com
 
 # Features
+
 ### Seller
 - upload items
   - add description
@@ -17,3 +18,11 @@ https://cryptic-plains-20900.herokuapp.com
 
 - browse for items
 - contact the seller via Email or phone
+
+ ## TECHNOLOGIES USED :
+ 
+ **FRONTEND**: HTML, CSS, JAVASCRIPT, BOOTSTRAP
+
+ **BACKEND**: Node.js, Express, mongoDB
+
+ **APIs** : Cloudinary, Google OAuth 2.0
