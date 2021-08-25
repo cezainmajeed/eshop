@@ -6,15 +6,14 @@ https://cryptic-plains-20900.herokuapp.com
 
 # Features
 ### Seller
-
-    - upload items
-        - add description
-        - add image for the item
-        - specify expected price
-    - manage uploaded items
-    - remove items
+- upload items
+  - add description
+  - add image for the item
+  - specify expected price
+- manage uploaded items
+- remove items
 
 ### Buyer
 
-    - browse for items
-    - contact the seller via Email or phone
+- browse for items
+- contact the seller via Email or phone
