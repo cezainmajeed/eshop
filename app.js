@@ -51,7 +51,6 @@ const userSchema = new mongoose.Schema({
   name: String,
   email: String,
   contact: String,
-  password: String,
   googleId: String,
 });
 
